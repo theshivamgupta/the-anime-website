@@ -1,0 +1,80 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    background: url(wallpaper2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.upper-intro {
+    background-color: rgba(65, 63, 63, 0.404);
+    padding: 0px;
+}
+
+header {
+    color: rgb(236, 232, 228);
+    padding-top: 10px;
+    padding-bottom: 0;
+    opacity: 0.7;
+}
+
+/* .buffer {
+    margin: 2000px;
+} */
+
+nav {
+    opacity: 0.7;
+    margin-top: 0;
+    padding-top: 0px;
+}
+
+.navbar-brand {
+    text-transform: capitalize;
+}
+
+.btn {
+    border-color: red;
+    color:  red;
+}
+
+.btn:hover {
+    background-color: red;
+    border-color: red;
+}
+
+ li {
+    color:  rgb(236, 232, 228);
+}
+
+input {
+    background: white;
+} 
+
+.btn-danger {
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 440px;
+}
+
+.buttons {
+    text-decoration: none;
+    color:white;
+}
+
+.buttons:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.btn:focus {
+    background-color: red;
+    border-color: red;
+    color: white;
+}
+
